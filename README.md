@@ -17,8 +17,9 @@ The National Mental Health Survey (2017) reported that one in seven people in In
 ## Classifications of Chatbots
 
 Chatbots can be classified along several dimensions. My research focused on the **design approaches**: rule-based, retrieval-based, and generative-based.
+<img src="https://github.com/nigamgauri/StillSpeak/blob/986a3c29e7ee418b1c5bd849157fb0a0f59dc151/classification.png"
+width="500" height="600">
 
-<img src="https://github.com/pandeyanuradha/Chatbot-for-mental-health/blob/cf6ec506c29952048d698fbea18708cf275d66e7/classification.png" width="500" height="600">
 
 1. **Rule-based Chatbots**: Use rule/pattern matching to pick a response from predefined text (no new text generation).
 2. **Retrieval-based Chatbots**: Use ML/DL models to select the best response from a fixed pool (also do not generate new text).
